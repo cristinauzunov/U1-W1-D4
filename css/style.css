@@ -1,5 +1,5 @@
 body{
-    
+    width: 400px;
     margin: 25px;
     padding: 25px;
     background-image: url(../sfondo.png);
@@ -61,7 +61,8 @@ main{
 }
 
 h1{
-    font-size: 30px;
+    font-size: 20px;
+    text-align: center;
 }
 .alt{
     text border-color: 1px solid black;}
@@ -105,4 +106,27 @@ h1{
     border-bottom: 1px solid blue;
  }
    
+ video{
+    max-width:100%;
+    height: auto;
+ }
 
+ #novita{
+    background-color: antiquewhite;
+    padding-left:1px;
+ }
+
+ #t1{
+    background-color: antiquewhite;
+    padding-left: 1px;
+ }
+ #t2{
+    background-color:antiquewhite;
+    margin-top: 5px;
+
+ }
+
+ #t3{
+    background-color: antiquewhite;
+    margin-top: 5px;
+ }
