@@ -41,6 +41,7 @@ body{
 }
 
 main{
+    
     background-color: white;
     width: 300px;
     border: 1px;
@@ -48,16 +49,19 @@ main{
     padding: 1em;
     margin-top: 3em;
     margin-bottom: 3em;
+    
     }
 
  footer{
     background-color: cornflowerblue;
+    color: white;
     width: 300px;
     border: 1px;
     text-align: center;
     padding: 1em;
     margin-top: 3em;
     margin-bottom: 3em;
+    text-align: center;
 }
 
 h1{
@@ -129,4 +133,7 @@ h1{
  #t3{
     background-color: antiquewhite;
     margin-top: 5px;
+ }
+ a{
+    color: blueviolet;
  }
